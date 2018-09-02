@@ -1,4 +1,4 @@
-# how-is-my-grade-
+# What-is-my-grade-
 Find the grade based on your point from 0 to 100
 package mainpackagedemo;
 
